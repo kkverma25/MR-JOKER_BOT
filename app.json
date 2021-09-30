@@ -1,7 +1,7 @@
 {
       "name": "MR.JOKER BOT",
       "description": "POWERFULL TELEGRAM GROUP MANAGEMENT BOT",
-      "logo": "https://telegra.ph/file/6525d89de5b72003d80fa.png",
+      "logo": "https://telegra.ph/file/f6dd497221ff913d3b3d2.png",
       "keywords": [
          "telegram",
          "anime",
@@ -10,7 +10,7 @@
          "bot",
          "mrjoker"
       ],   
-   "repository": "https://github.com/kjeymax/MR-JOKER_BOT.git",
+   "repository": "https://github.com/kkverma25/MR-JOKER_BOT.git",
    "addons": [
       {
          "options": {
@@ -51,22 +51,22 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1131653685"
+         "value": "2043447979"
       },      
       "SUDO_USERS": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1131653685"   
+         "value": "2043447979"   
       },
       "SUPPORT_USERS":{
             "description": "Your user ID's as an integer.",
             "required" : true,
-            "value" : "1131653685"
+            "value" : "2043447979"
       },      
       "WHITELIST_USERS": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1131653685"     
+         "value": "2043447979"     
      
       },
       "BOT_ID": {
@@ -89,7 +89,7 @@
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: lkhitech. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "lkhitech"
+         "value": "DEVIL_DAD_SUPPORT"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -107,12 +107,12 @@
      "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-100....'",
          "required": true,
-         "value": "-123456789"
+         "value": "-1001553361246"
       },
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "-123456789"
+         "value": "-1001553361246"
       },      
       "CASH_API_KEY": {
          "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
@@ -132,7 +132,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Masha support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": "1131653685"
+         "value": "2043447979"
       },
       "SPAMWATCH_SUPPORT_CHAT": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
@@ -199,7 +199,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it linking to paul",
          "required": false,
-         "value": "https://t.me/kavinduaj"
+         "value": "https://t.me/YOUR_DEVIL_DAD"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
